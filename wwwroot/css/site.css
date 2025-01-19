@@ -1,0 +1,104 @@
+/* General Styles */
+body {
+    font-family: 'Comic Neue', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+.jumbotron {
+    background-color: #ffffff;
+    border: 2px solid;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.section-title {
+    font-family: 'Comic Neue', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: brown;
+}
+
+.card-title {
+    font-family: 'Comic Neue', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: brown;
+}
+
+.card-text {
+    font-family: 'Comic Neue', sans-serif;
+    font-size: 1rem;
+    color: gray;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 2px solid;
+}
+
+.custom-font-welcome {
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    font-weight: bold;
+    color: brown;
+}
+
+/* Contact Us Page Styles */
+.contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+    .contact-form h1 {
+        font-family: 'Playfair Display', serif;
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: black;
+        text-align: center;
+    }
+
+    .contact-form p {
+        text-align: center;
+        font-size: 1.2rem;
+        color: #666;
+    }
+
+    .contact-form .form-group {
+        margin-bottom: 1rem;
+    }
+
+    .contact-form .form-control {
+        width: 100%;
+        padding: 0.75rem;
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+    }
+
+    .contact-form .btn-primary {
+        background-color: black;
+        border-color: #007bff;
+        color: white;
+        padding: 0.75rem 1.5rem;
+        font-size: 1rem;
+        font-weight: bold;
+        border-radius: 4px;
+        width: 100%;
+        margin-top: 1rem;
+    }
+.nav-link-custom {
+    color: brown !important;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
